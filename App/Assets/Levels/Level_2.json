@@ -1,0 +1,420 @@
+{
+    "Blocks": [
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1024.0,
+                "y": 128.0
+            },
+            "m_rotDegree": 0.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 768.0,
+                "y": 160.0
+            },
+            "m_rotDegree": -19.999996185302734,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1280.0,
+                "y": 160.0
+            },
+            "m_rotDegree": 19.999996185302734,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1440.0,
+                "y": 288.0
+            },
+            "m_rotDegree": 59.99999237060547,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 608.0,
+                "y": 288.0
+            },
+            "m_rotDegree": 299.99993896484375,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1440.0,
+                "y": 672.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1312.0,
+                "y": 544.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 832.0,
+                "y": 736.0
+            },
+            "m_rotDegree": 389.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1216.0,
+                "y": 736.0
+            },
+            "m_rotDegree": 329.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 544.0,
+                "y": 512.0
+            },
+            "m_rotDegree": 270.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1024.0,
+                "y": 800.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1024.0,
+                "y": 640.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1024.0,
+                "y": 576.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1504.0,
+                "y": 512.0
+            },
+            "m_rotDegree": 90.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 608.0,
+                "y": 672.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1216.0,
+                "y": 352.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 416.0,
+                "y": 320.0
+            },
+            "m_rotDegree": 389.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1632.0,
+                "y": 320.0
+            },
+            "m_rotDegree": 329.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1536.0,
+                "y": 160.0
+            },
+            "m_rotDegree": 329.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 512.0,
+                "y": 160.0
+            },
+            "m_rotDegree": 389.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 288.0,
+                "y": 96.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1760.0,
+                "y": 96.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 224.0,
+                "y": 256.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1824.0,
+                "y": 256.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 832.0,
+                "y": 352.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1952.0,
+                "y": 128.0
+            },
+            "m_rotDegree": 299.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 352.0,
+                "y": 672.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1696.0,
+                "y": 672.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 128.0,
+                "y": 672.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 1920.0,
+                "y": 672.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 736.0,
+                "y": 544.0
+            },
+            "m_rotDegree": 360.0,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        },
+        {
+            "LifePoints": 1,
+            "TextureName": "RectBrick0",
+            "m_pos": {
+                "x": 96.0,
+                "y": 128.0
+            },
+            "m_rotDegree": 419.9999694824219,
+            "m_size": {
+                "x": 200.0,
+                "y": 64.0
+            }
+        }
+    ]
+}

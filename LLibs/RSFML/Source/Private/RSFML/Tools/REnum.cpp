@@ -1,0 +1,1 @@
+#include "RSFML/Tools/REnum.h"

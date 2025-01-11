@@ -1,0 +1,15 @@
+Default.png
+size:2048,512
+repeat:none
+BallDefault
+bounds:1028,52,256,256
+split:0,0,0,0
+pad:12,9,12,9
+DragonflightWidebar
+bounds:2,132,1024,176
+split:416,416,85,88
+pad:160,166,30,30
+RectBrick0
+bounds:2,2,400,128
+split:40,40,40,40
+pad:33,33,33,33
