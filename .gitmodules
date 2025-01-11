@@ -1,0 +1,9 @@
+[submodule "ELibs/nlohmann_json"]
+	path = ELibs/nlohmann_json
+	url = git@github.com:nlohmann/json.git
+[submodule "ELibs/SFML"]
+	path = ELibs/SFML
+	url = git@github.com:SFML/SFML.git
+[submodule "ELibs/tracy"]
+	path = ELibs/tracy
+	url = https://github.com/wolfpld/tracy
