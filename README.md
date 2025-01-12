@@ -4,8 +4,8 @@ BBSFML is a **2D Brick Breaker** game in development.
 It is being developed for **Windows** as a Win32 app in **C++** using the **SFML 3.0** graphic library.
 ## Showcase
 <div align="center"> 
- 
-  ![Picture of a level](https://quentin-noguier.fr/Files/BBSFML/Media/BBSFML_Showcase_Github_2.png)
+
+  [![Link to a youtube video showcasing the project](https://quentin-noguier.fr/Files/BBSFML/Media/BBSFML_Showcase.png)](https://youtu.be/_U9ddWVPfUs)
 </div>
 
 
