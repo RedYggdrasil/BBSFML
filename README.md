@@ -1,6 +1,13 @@
 # Brick Breaker SFML
+
 BBSFML is a **2D Brick Breaker** game in development.
 It is being developed for **Windows** as a Win32 app in **C++** using the **SFML 3.0** graphic library.
+## Showcase
+<div align="center"> 
+ 
+  ![Picture of a level](https://quentin-noguier.fr/Files/BBSFML/Media/BBSFML_Showcase_Github_2.png)
+</div>
+
 
 This project was done in December 2024 to serve as demonstration to a class of students in gamedev.
 The art and audio assets are form **World of Warcraft** and **Hearthstone** by **Blizzard Entertainment**.
@@ -15,11 +22,6 @@ There is a Release build of BBSFML on Google Drive [Download the file](https://d
 Run **START_LEVEL_EDITOR.bat** or in comand line, run **App.exe**  with parameter **run_editor**
 
 
-### Showcase
-<div align="center"> 
- 
-  ![Picture of a level](https://quentin-noguier.fr/Files/BBSFML/Media/BBSFML_Showcase_Github_2.png)
-</div>
 
 ## BBSFML Branches
 ```main``` correspond to the project code up to date.
